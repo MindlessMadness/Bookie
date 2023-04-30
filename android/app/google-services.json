@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "203845405846",
+    "project_id": "bookie-13994",
+    "storage_bucket": "bookie-13994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203845405846:android:d17a205d840601b75886b7",
+        "android_client_info": {
+          "package_name": "com.example.bookie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203845405846-6ro7np2187qe269u2hhtj815c4uovudo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookie",
+            "certificate_hash": "e15639d88eda0cc2fcc0c670ed1bc5e9a4836f90"
+          }
+        },
+        {
+          "client_id": "203845405846-qm4gas4fqv7re7jj677mrfvodsloffg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOeuUL2MlWQjw6ElL5I19-eVnD0mezs-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203845405846-qm4gas4fqv7re7jj677mrfvodsloffg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
